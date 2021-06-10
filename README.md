@@ -1,6 +1,6 @@
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 
-### Conversão de Polegadas
+### Triângulo Alfabético
 
 Como dito por um importante personagem de um igualmente memorável filme: *"palavras são, na minha nada humilde opinião, nossa inesgotável fonte de magia [...]"*. Evidentemente, seria difícil formar palavras se não houve uma alfabeto bem estabelecido e divulgado, assim como em nosso alfabeto latino.
 
